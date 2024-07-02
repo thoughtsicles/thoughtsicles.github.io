@@ -1,6 +1,6 @@
 name: thoughtsicles
-description: > just some stuff on my mind grapes
-about: > ¯\_(ツ)_/¯
+description: just some stuff on my mind grapes
+# about: ¯\_(ツ)_/¯
 
 master_repo: false
 url: "http://thoughtsicles.github.io/white-paper"
